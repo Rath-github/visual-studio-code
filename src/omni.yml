@@ -1,10 +1,8 @@
-name: Omni
-author: Rocketseat
+name: Tads
+author: Tads
 maintainers:
-  - Diego Fernandes <diego.schell.f@gmail.com>
-  - Luke Morales <lukemorales@live.com>
-  - João Pedro Schmitz <hey@joaopedro.dev>
-semanticClass: theme.omni
+  - Thiago dos Santos <dthiagodossantos315@gmail.com>
+semanticClass: theme.tads
 omni:
   base:
     - &BG                   '#191622'
